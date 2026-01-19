@@ -30,7 +30,7 @@ bun install
 
 Public YouTube demo video (1–2 min):
 
-➡️ [Demo Link](https://www.youtube.com/watch?v=biMHx_y_Zgo)
+➡️ [Demo Link](https://www.youtube.com/watch?v=Xekn_2qtwwU)
 
 ---
 📦Project Overview
